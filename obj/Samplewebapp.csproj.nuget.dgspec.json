@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AZ-203_Practice\\Samplewebapp\\Samplewebapp\\Samplewebapp\\Samplewebapp.csproj": {}
+    "D:\\AZ-203_Practice\\demo-web-app\\Demo\\Samplewebapp.csproj": {}
   },
   "projects": {
-    "D:\\AZ-203_Practice\\Samplewebapp\\Samplewebapp\\Samplewebapp\\Samplewebapp.csproj": {
+    "D:\\AZ-203_Practice\\demo-web-app\\Demo\\Samplewebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-203_Practice\\Samplewebapp\\Samplewebapp\\Samplewebapp\\Samplewebapp.csproj",
+        "projectUniqueName": "D:\\AZ-203_Practice\\demo-web-app\\Demo\\Samplewebapp.csproj",
         "projectName": "Samplewebapp",
-        "projectPath": "D:\\AZ-203_Practice\\Samplewebapp\\Samplewebapp\\Samplewebapp\\Samplewebapp.csproj",
+        "projectPath": "D:\\AZ-203_Practice\\demo-web-app\\Demo\\Samplewebapp.csproj",
         "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-203_Practice\\Samplewebapp\\Samplewebapp\\Samplewebapp\\obj\\",
+        "outputPath": "D:\\AZ-203_Practice\\demo-web-app\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
