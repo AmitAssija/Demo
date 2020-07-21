@@ -1,0 +1,3 @@
+D:\AZ-203_Practice\Samplewebapp\Samplewebapp\Samplewebapp\obj\release\netcoreapp2.1\Samplewebapp.csprojAssemblyReference.cache
+D:\AZ-203_Practice\Samplewebapp\Samplewebapp\Samplewebapp\obj\release\netcoreapp2.1\Samplewebapp.AssemblyInfoInputs.cache
+D:\AZ-203_Practice\Samplewebapp\Samplewebapp\Samplewebapp\obj\release\netcoreapp2.1\Samplewebapp.AssemblyInfo.cs
